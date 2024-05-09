@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5lX622mYBrE" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cybersecurity Awareness Course</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cybersecurity_Awareness_Course_ORG">
+    <organization identifier="Cybersecurity_Awareness_Course_ORG">
+      <title>Cybersecurity Awareness Course</title>
+      <item identifier="Cybersecurity_Awareness_Course_SCO" isvisible="true" identifierref="__5lX622mYBrE_RES">
+        <title>Cybersecurity Awareness Course</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5lX622mYBrE_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6WbUFkdKwce_44100_48_0.mp3" />
+      <file href="mobile/6pe1goU7MCF_P_45_65_1039_1020.png" />
+      <file href="mobile/5l2laxfVOL1.png" />
+      <file href="mobile/6NpL4QrwKox.jpg" />
+      <file href="mobile/6EDbrPGmVET.png" />
+      <file href="story_content/66EuGIkSKjm_44100_48_0.mp3" />
+      <file href="mobile/6lNJJauWIkK.jpg" />
+      <file href="mobile/6545uhRhMra.jpg" />
+      <file href="story_content/6B53S0GgkVJ_44100_48_0.mp3" />
+      <file href="mobile/5rGE6CiYrij.jpg" />
+      <file href="story_content/6bc9Ds8dPMJ_44100_48_0.mp3" />
+      <file href="story_content/66b9ek7y5bm_44100_48_0.mp3" />
+      <file href="mobile/6CxEMiQyN0s.png" />
+      <file href="mobile/6ERcHkoL0ei.jpg" />
+      <file href="story_content/5w94fWw0nDM_44100_48_0.mp3" />
+      <file href="mobile/5yvkZy2Ulyv.jpg" />
+      <file href="story_content/6UxPC8gZpNP_44100_48_0.mp3" />
+      <file href="mobile/5hLrkWhYHOM.png" />
+      <file href="mobile/6FSADdorRPz_P_33_175_440_214.png" />
+      <file href="story_content/6X3X2eN7O7o_44100_48_0.mp3" />
+      <file href="mobile/5wodDCwArgd.png" />
+      <file href="story_content/69002tvM2Bo_44100_48_0.mp3" />
+      <file href="mobile/69R4kn1ch04.png" />
+      <file href="story_content/5YD4Q6yxGQA_44100_48_0.mp3" />
+      <file href="mobile/5nkRWHX4OaE.png" />
+      <file href="mobile/6VMMxYLpU6h.jpg" />
+      <file href="mobile/61uarA3a0TC.jpg" />
+      <file href="story_content/6XuwPQceqh4_44100_48_0.mp3" />
+      <file href="mobile/6Ey7cX8xqYB.jpg" />
+      <file href="story_content/67pVldl5mPm_44100_48_0.mp3" />
+      <file href="story_content/6LyqasvONNf_44100_48_0.mp3" />
+      <file href="mobile/6Juxh5R4Gjf.png" />
+      <file href="mobile/6ny42g7S7Ri.png" />
+      <file href="story_content/5aXGqOlmWDw_44100_48_0.mp3" />
+      <file href="story_content/5kIcwZNh3UX_44100_48_0.mp3" />
+      <file href="story_content/6Xcdt9Zd0j4_44100_48_0.mp3" />
+      <file href="mobile/5nkRWHX4OaE_X.png" />
+      <file href="story_content/6p4FAR366su_44100_48_0.mp3" />
+      <file href="mobile/5nMJrsbzuHq.jpg" />
+      <file href="mobile/5gNsmtsvInI.png" />
+      <file href="mobile/5u7sTchb20p.jpg" />
+      <file href="story_content/5eld6lTl1Zd_44100_48_0.mp3" />
+      <file href="story_content/5imqLcfergw_44100_48_0.mp3" />
+      <file href="mobile/5oVNknDoyyQ_P_384_0_1146_1080.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6ZZeYK1FkUp.png" />
+      <file href="mobile/Shape61tw7otteIK.png" />
+      <file href="mobile/Shape6rKomSA3Nhu.png" />
+      <file href="mobile/Shape6SPxPSpNAyS.png" />
+      <file href="mobile/Shape5qXpg8Lr4IZ.png" />
+      <file href="mobile/Shape6TFeE9jO0CI.png" />
+      <file href="mobile/Shape5wR62zYdGw5.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dXLLw1kP69.js" />
+      <file href="html5/data/js/5laMauRufA9.js" />
+      <file href="html5/data/js/5lCVYNBoox7.js" />
+      <file href="html5/data/js/5W6qMf2OUm3.js" />
+      <file href="html5/data/js/5wJ5bzScXBI.js" />
+      <file href="html5/data/js/5yI1wsTe9ql.js" />
+      <file href="html5/data/js/64KWYwryZwt.js" />
+      <file href="html5/data/js/65LP6n3r80w.js" />
+      <file href="html5/data/js/66zTf3gzJvy.js" />
+      <file href="html5/data/js/6CmktnD0nPG.js" />
+      <file href="html5/data/js/6DlcNJih1l3.js" />
+      <file href="html5/data/js/6fTBXeYzoDJ.js" />
+      <file href="html5/data/js/6g9RpjeoLbN.js" />
+      <file href="html5/data/js/6mulcmY8WzL.js" />
+      <file href="html5/data/js/6SV35wLn2QR.js" />
+      <file href="html5/data/js/6ZzbkfJXvLG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
